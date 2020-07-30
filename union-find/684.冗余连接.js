@@ -1,14 +1,13 @@
-/**
- * @param {number[][]} edges
- * @return {number[]}
- */
-
  /**
   * Solution:
   * redundant --> 有环
   * 用 unin find 找到致使成环的那条 edge
   */
 
+/**
+ * @param {number[][]} edges
+ * @return {number[]}
+ */
 
 function find(x, father) {
   let ancestor = x;
