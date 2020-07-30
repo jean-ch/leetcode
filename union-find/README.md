@@ -27,8 +27,8 @@ function find(value, father) {
 
 // merge: 找到两个元素 a, b 的 father，把其中一个的 father 指向另一个的 father
 function merge(a, b, father) {
-  let fatherA = father[a];
-  let fatherB = father[b];
+  let fatherA = find(a, father);
+  let fatherB = find(b, father);
   if (fatherA !== fatherB) {
     father[a] = fatherB;
   }
