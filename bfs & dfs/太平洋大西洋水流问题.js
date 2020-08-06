@@ -7,6 +7,7 @@
   * 思路：从matrix的四条边 dfs
   * 注意： js 数组找符合条件的成员用 some
   */
+var pacificAtlantic = function(matrix) {
     let result = [];
     if (!matrix || !matrix[0]) {
         return result;
