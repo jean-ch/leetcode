@@ -1,0 +1,15 @@
+- Array
+  - ```int[][] ds = new int[][]{{1, 0}, {-1, 0}, {0, 1}, {0, -1}};```
+- Queue- LinkedList
+  - offer()
+  - poll()
+  - peek()  
+- HashSet
+  - add()
+  - remove()
+  - contains()  
+- HashMap
+  - get()
+  - put()
+  - remove()
+  - containsKey()

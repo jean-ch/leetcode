@@ -1,0 +1,10 @@
+- bool
+  - True, False （注意大小写）
+  - 运算符: and, or, not
+- string
+  - ord() 获取字符的整数表示： ord('A') -> 65
+  - len() 计算字符串长度
+  - 字符串格式化
+- None
+- number: 除法- /， //
+- 多行字符串 '''...'''    
