@@ -1,3 +1,6 @@
+- String
+  - length()
+  - substring()
 - Array
   - ```int[][] ds = new int[][]{{1, 0}, {-1, 0}, {0, 1}, {0, -1}};```
 - Queue- LinkedList
