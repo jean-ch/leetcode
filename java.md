@@ -2,6 +2,11 @@
   - length()
   - substring()
 - Array
+  - add()
+  - remove(int index), remove(Object o)
+  - get()
+  - indexOf()
+  - isEmpty()
   - ```int[][] ds = new int[][]{{1, 0}, {-1, 0}, {0, 1}, {0, -1}};```
 - Queue- LinkedList
   - offer()
