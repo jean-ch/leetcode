@@ -1,17 +1,22 @@
+- [][]
+  - length
 - String
   - length()
   - substring()
+  - equals()
 - Array
   - add()
   - remove(int index), remove(Object o)
   - get()
   - indexOf()
   - isEmpty()
+  - new ArrayList<>(Arrays.asList())
+  - every(e)
   - ```int[][] ds = new int[][]{{1, 0}, {-1, 0}, {0, 1}, {0, -1}};```
 - Queue- LinkedList
   - offer()
   - poll()
-  - peek()  
+  - peek()   
 - HashSet
   - add()
   - remove()

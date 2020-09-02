@@ -12,6 +12,7 @@
 
  /**
   * BFS ob Graph: queue + hashmap
+  * 复杂度：O(n + m), n：点, m：边
   */
 
 public class Solution {
